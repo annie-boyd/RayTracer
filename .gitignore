@@ -2,3 +2,4 @@ rt
 *.ppm
 *.png
 .DS_Store
+a.out

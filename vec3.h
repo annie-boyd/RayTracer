@@ -1,4 +1,4 @@
-/* vec3.cpp
+/* vec3.h
 
 this code is directly from the book "Ray Tracing in One Weekend",
 code can be found at https://raytracing.github.io/books/RayTracingInOneWeekend.html#outputanimage
