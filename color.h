@@ -9,7 +9,6 @@ code can be found at https://raytracing.github.io/books/RayTracingInOneWeekend.h
 
 #include "vec3.h"
 
-#include <iostream>
 
 using color = vec3;
 
